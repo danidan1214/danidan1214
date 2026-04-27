@@ -39,8 +39,8 @@ AND security_level = 'Network Management & Security';
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danidan1214&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Daniel's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidan1214&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danidan1214&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Daniel's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidan1214&layout=compact&theme=react" alt="Top Langs" height="175" />
 </p>
 
 ---
